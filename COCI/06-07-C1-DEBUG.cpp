@@ -1,5 +1,24 @@
 //// COCI #1, 2006/2007, task DEBUG
 //// AC on http://wcipeg.com/problem/coci061p6
+//// Execution Results
+//// Test case #1: AC [0.003s, 5884K] (10/10)
+//// Test case #2: AC [0.003s, 5884K] (10/10)
+//// Test case #3: AC [0.003s, 5884K] (10/10)
+//// Test case #4: AC [0.003s, 5884K] (10/10)
+//// Test case #5: AC [0.069s, 5884K] (10/10)
+//// Test case #6: AC [0.026s, 5884K] (10/10)
+//// Test case #7: AC [0.022s, 5884K] (10/10)
+//// Test case #8: AC [0.455s, 5884K] (10/10)
+//// Test case #9: AC [0.402s, 5884K] (10/10)
+//// Test case #10: AC [0.369s, 5884K] (10/10)
+//// Test case #11: AC [0.629s, 5884K] (10/10)
+//// Test case #12: AC [0.206s, 5884K] (10/10)
+//// Test case #13: AC [0.828s, 5884K] (10/10)
+//// Test case #14: AC [0.606s, 5884K] (10/10)
+//// Test case #15: AC [0.206s, 5884K] (10/10)
+////
+//// Final score: 150/150
+
 #include <iostream>
 #include <cstdio>
 #include <algorithm>

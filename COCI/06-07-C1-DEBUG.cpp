@@ -78,7 +78,7 @@ unsigned long long hfv[maxn][maxn], hbv[maxn][maxn], vfv[maxn][maxn], vbv[maxn][
 // vfv = vertical forward value
 // vbv = vertical backward value
 
-const int NBIT = 32;
+const int NBIT = 32; // using 64 bits will be TLE because the non-jumping bit check has complexity of 300 * 300 * 300 * 64
 
 void build_value()
 {

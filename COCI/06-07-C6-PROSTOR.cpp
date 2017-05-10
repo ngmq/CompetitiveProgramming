@@ -4,6 +4,7 @@
 //// too easy - one needs to consider carefully how to decompose the sum into three components of (X, Z), (Z, Y) and (Y, Z). 
 //// Additionaly, implementing each component is not that trivial - carefully design how sweep lines algorithm should be performed
 //// certainly requires some time and drawing things on paper.
+//// This solution is written in OOP style after consulting the COCI's solution.
 
 #include <iostream>
 #include <cstdio>
